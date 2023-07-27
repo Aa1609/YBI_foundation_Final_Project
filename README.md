@@ -1,4 +1,4 @@
-# YBI foundation Final Project
+# YBI Foundation Final Project
 The final project submission of Data Science and Machine Learning Internship.
 
 Title: Mileage Prediction : Regression Analysis
